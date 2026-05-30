@@ -34,7 +34,9 @@ El proyecto utiliza información de clientes, planes y uso de servicios móviles
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/angelica-perez-carrillo/telecom-analysis.git)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/angelica-perez-carrillo/telecom-analysis/blob/main/notebooks/connectatel_analysis.ipynb
+)
 
 O:
 
